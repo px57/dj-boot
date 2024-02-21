@@ -1,0 +1,8 @@
+{
+    "base_path": "/var/projects/buzz/buzz-intern-server/boot/.gpm/base.json",
+    "gpm_path": "/var/projects/buzz/buzz-intern-server/boot/.gpm",
+    "name": "dj-boot",
+    "project_type": "module",
+    "repository_url": "https://github.com/px57/dj-boot.git",
+    "root_path": "/var/projects/buzz/buzz-intern-server/boot"
+}
