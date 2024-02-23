@@ -11,4 +11,5 @@ class BootConfig(AppConfig):
         """
         This is called when the app is ready
         """
-        model_ready()
+        # model_ready()
+        pass
