@@ -30,4 +30,4 @@ class DefaultRuleClass(InterfaceManager):
         res = kwargs.get('res')
         res.authenticated = res.is_authenticated()
 
-BOOT_RULESTACK.set_rule(DefaultRuleClass())
+BOOT_RULESTACK.set_rule(DefaultRuleClass)
