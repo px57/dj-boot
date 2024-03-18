@@ -11,5 +11,5 @@ def load_basic_data(request):
     res = Response(request=request)
     list_rules = BOOT_RULESTACK.list_rules()
     for rule in list_rules:
-        rule.gpm_run(res=res)
+        rule().gpm_run(res=res)
     return res.success()
