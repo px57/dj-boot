@@ -1,5 +1,5 @@
 
-from kernel.interfaces.stack import model_ready 
+from gpm.interfaces.stack import model_ready 
 from django.apps import AppConfig
 
 

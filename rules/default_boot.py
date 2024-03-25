@@ -1,6 +1,6 @@
 
 from boot.rules.stack import BOOT_RULESTACK
-from kernel.interfaces.interfaces import InterfaceManager
+from gpm.interfaces.interfaces import InterfaceManager
 
 import PIL
 import os

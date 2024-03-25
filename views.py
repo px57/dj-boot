@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from kernel.http import Response
+from gpm.http import Response
 from boot.rules.stack import BOOT_RULESTACK
 from profiles.decorators import load_profile
 
